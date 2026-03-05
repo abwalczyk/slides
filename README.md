@@ -40,6 +40,9 @@
 </thead>
 <tbody>
 <tr>
+<td>March 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Metrics Utility & Node Counting - Enablement Deck</a></td>
+</tr>
+<tr>
 <td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement
 </a></td>
 </tr>
@@ -118,6 +121,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Metrics Utility & Node Counting - Enablement Deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Google Source</a></td>
+<td>N/A</td>
+</tr>
 <tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
