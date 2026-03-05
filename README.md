@@ -43,18 +43,20 @@
 <td>March 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Metrics Utility & Node Counting - Enablement Deck</a></td>
 </tr>
 <tr>
-<td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement
+<td>February 17th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">AI + Ansible - Content Kit</a></td>
+</tr>
+<tr>
+<td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
+</tr>
+<tr>
+<td>January 21st, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">AAP Roadmap for 2026</a></td>
+</tr>
+<tr>
+<td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
 </a></td>
 </tr>
 <tr>
-<td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
-</tr>
-<tr>
-<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).</a></td>
-</tr>
-<tr>
-<td>May 27th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">101/201 Google Slide deck for Ansible + AI - Artificial Intelligence
-</a></td>
+<td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement</a></td>
 </tr>
 </tbody>
 </table>
@@ -66,17 +68,30 @@
 <thead>
 <tr>
 <th>Latest Power 5 (Updates for Sales)</th>
+<th>Presenter</th>
+<th>Date</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/1_gu16mvdj">Power 5 - Episode 52 "Adopting Ansible Automation Platform 2.6"</a></td>
+<td>Catherine Choi</td>
+<td>February 13th, 2026</td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_7evd7yjx">Power 5 - Episode 43 "How Red Hat is mastering IT operations efficiency for One NZ"</a></td>
+<td>Cameron Russo and Yvonne Cheong</td>
+<td>December 4th, 2025</td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Power 5: Customer Win - 7 minutes (Courtney Cydylo)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_r4nvhr6h">Power 5 - Episode 39 "Understanding Automation Maturity to Drive More ARR and Retention"</a></td>
+<td>Tricia McConnell</td>
+<td>November 20th, 2025</td>
+</tr>
+<tr>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_yuzsfb2y">Power 5 - Episode 38 "Selling the value of scaling automation securely"</a></td>
+<td>Matthew Packer</td>
+<td>November 20th, 2025</td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +116,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/release_notes/index">2.5 Release Notes
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html-single/release_notes/index">2.6 Release Notes
 </a></td>
 </tr>
 </tbody>
@@ -127,6 +142,11 @@
 <td>N/A</td>
 </tr>
 <tr>
+<td>What's new in AAP 2.6</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=80736aec-527d-4e43-acf7-7993c7b5ee07&fusionQueryId=0Gmbv4IGzB&query=customer%20deck)%20and%20(undefined">Content Center</a></td>
+</tr>
+<tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
@@ -149,9 +169,10 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Technical Roadmap (post AAP 2.5, 2025)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1zoKb4QurLM6yGpYN9k_6LF76gjrn99uhC1okH_BORXI/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td>Technical Roadmap 2026</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">Google Source</a><br>
+<ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/Winning+in+CY26%3A+Technical+Strategy+for+Ansible/1_i2hwg5y7">Video Presentation</a></li></ul></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=167d5ee4-2634-4e30-b53e-6c326443c82b">Content Center</a></td>
 </tr>
 <tr>
 <td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
@@ -238,9 +259,14 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
+<td>Content Kit</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4d781b0c-4d61-4a90-a85b-b0f22e546747">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -270,6 +296,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Event-Driven Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2ac510d6-1458-4689-a7dd-b488ee0788a1">Content Center</a></td>
+</tr>
+<tr>
+<td>Event-Driven Ansible - Splunk Integration</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing">Google Source</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&fusionQueryId=3tFUfGcDml&query=splunk">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -390,9 +421,9 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
       <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=1ccbf007-1c6a-4bbe-8def-34809af04766&fusionQueryId=8LQrlQgNKc&query=vault">Content Center</a></td>
     </tr>
     <tr>
-      <td>Ansible + Vault 202 (includes Roadmap)</td>
+      <td>Ansible + Vault 201 (includes Roadmap)</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1hZ5FdE-zQuygXUE8h5-ob8EBuP1IalmUBmJyrbPc8NQ/edit?usp=sharing">Google Source</a></td>
-      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0a55707e-05b4-4aa1-b658-80ae513d475c">Content Center</a></td>
     </tr>
   </tbody>
 </table>
@@ -494,13 +525,18 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>N/A</td>
 </tr>
 <tr>
-<td>Ansible OpenShift Virtualization - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
+<td>OpenShift Virtualization - 101/201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_U71g9w35JqareMhaq01xzjudrPv4dHP8IK2XPnD4VE/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=441462ea-66b8-446a-a7cf-6950ca5e6eb3&fusionQueryId=M491NNl2Z2&query=day%202%20virtual">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
+<td>Day 2 virtual infrastructure automation 101 / 201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_U71g9w35JqareMhaq01xzjudrPv4dHP8IK2XPnD4VE/edit">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
@@ -595,6 +631,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52">Content Center</a></td>
 </tr>
+<tr>
+<td>Cisco Enterprise Networking + AAP - Content Kit</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Google Source</a></td>
+<td>N/A</td>
+</tr>
 </tbody>
 </table>
 
@@ -612,17 +653,17 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <td>Ansible Infrastructure Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=359b2146-2857-4dfc-90b4-2751a97e939c">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=1dbea8b2-3d96-4b99-a4ef-76b1775fe1ec">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1GaYUtsjCCpjBiCqLMkxBNuDh4LdJRmfhdeDQRZaGcZw/edit?usp=sharing">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d9c3f4d-d1ed-40ee-8b4c-75d9367071c9">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=598c741c-cce4-4e69-8c25-c31a5c541992">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f22ce5b6-c943-43f1-921c-bc680254aa33">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Windows Automation</td>
@@ -663,20 +704,19 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ansible Security Automation - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1IC10jlKluqaVtEgYJLE2ldIDiIjQ2loLzTOvBQE-sv0/edit#slide=id.g867136564f_0_0">Google Source</a></td>
-</tr>
-<tr>
-<td>Ansible Security Automation - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-XOF3F6Je0W3mLf1KJt5a7UFEyU3kogQzqNtNdRNmKc/edit?usp=sharing">Google Source</a></td>
+<td>Ansible Security Automation - 101/201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&fusionQueryId=POMvjp8OJn&query=security%20automation%20101">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Security Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>

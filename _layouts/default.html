@@ -41,8 +41,21 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRJNCH95"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-    <script src="{{ '/assets/prism.js' }}"></script>
-    <script src="{{ '/assets/tablelink.js' }}"></script>
+
+    <!-- AWS re:Invent 2025 Banner -->
+    <div id="reinvent-banner" class="reinvent-banner">
+      <div class="reinvent-banner-content">
+        <div class="reinvent-banner-text">
+          <strong>Ansible will be at Google Cloud Next 2026 April 22nd-24th, <a href="https://forms.gle/fCoSi7hQ9CMrteN46" target="_blank" rel="noopener">sign up for a meeting here</a></strong>
+          <div class="reinvent-banner-subtext">
+            If you are a Red Hat employee, please share with your customers!
+          </div>
+        </div>
+        <button id="close-reinvent-banner" class="reinvent-banner-close" aria-label="Close banner">&times;</button>
+      </div>
+    </div>
+    <script src="{{ '/assets/prism.js' | relative_url }}"></script>
+    <script src="{{ '/assets/tablelink.js' | relative_url }}"></script>
 
     <div class="wrapper">
       <header>
@@ -117,5 +130,46 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <!-- AWS re:Invent Banner JavaScript -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const banner = document.getElementById('reinvent-banner');
+        const closeButton = document.getElementById('close-reinvent-banner');
+
+        // Check if banner was previously dismissed (localStorage)
+        // Using dated key to allow resetting banner for new events
+        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed-2026-02');
+
+        if (bannerDismissed === 'true') {
+          banner.classList.add('hidden');
+        }
+
+        // Handle close button click
+        if (closeButton) {
+          closeButton.addEventListener('click', function() {
+            // Add smooth transition before hiding
+            banner.style.transition = 'transform 0.3s ease-out, opacity 0.3s ease-out';
+            banner.style.transform = 'translateY(-100%)';
+            banner.style.opacity = '0';
+
+            // Hide banner after animation completes
+            setTimeout(function() {
+              banner.classList.add('hidden');
+              // Remember user's preference
+              localStorage.setItem('reinvent-banner-dismissed-2026-02', 'true');
+            }, 300);
+          });
+        }
+
+        // Optional: Auto-hide banner after Google Cloud Next ends (April 24, 2026)
+        const currentDate = new Date();
+        const eventEndDate = new Date('2026-04-24');
+
+        if (currentDate > eventEndDate) {
+          banner.classList.add('hidden');
+        }
+      });
+    </script>
   </body>
 </html>
